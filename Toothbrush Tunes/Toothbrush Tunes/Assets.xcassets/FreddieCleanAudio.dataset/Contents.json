@@ -1,0 +1,13 @@
+{
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "data" : [
+    {
+      "idiom" : "universal",
+      "filename" : "FreddieCleanAudio2.mov",
+      "universal-type-identifier" : "com.apple.quicktime-movie"
+    }
+  ]
+}
